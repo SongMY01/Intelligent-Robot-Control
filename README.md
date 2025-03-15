@@ -1,7 +1,7 @@
 # Intelligent-Robot-Control
 ROS1 workspace for IRC 2024
 
-** Adaptive PID Control for Autonomous Vehicles**
+**Adaptive PID Control for Autonomous Vehicles**
 
 - Autonomous Driving System Using ROS and OpenCV
 - Precise Steering and Speed Control Based on PID Control
